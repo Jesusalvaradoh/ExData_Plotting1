@@ -1,4 +1,4 @@
-## Introduction Programming Asigment 1
+## Introduction Programming Asigment 1 - Jesus Alvarado
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
